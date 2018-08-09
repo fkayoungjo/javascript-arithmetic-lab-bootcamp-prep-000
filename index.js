@@ -1,3 +1,1 @@
-var add = function() {
-  console.log(a + b)
-}
+1 + 80
